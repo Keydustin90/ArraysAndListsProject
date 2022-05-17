@@ -1,0 +1,45 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/dustinkey/repos/ArraysAndLists/ArraysAndListsProject/ArraysAndLists/ArraysAndLists.csproj": {}
+  },
+  "projects": {
+    "/Users/dustinkey/repos/ArraysAndLists/ArraysAndListsProject/ArraysAndLists/ArraysAndLists.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/dustinkey/repos/ArraysAndLists/ArraysAndListsProject/ArraysAndLists/ArraysAndLists.csproj",
+        "projectName": "ArraysAndLists",
+        "projectPath": "/Users/dustinkey/repos/ArraysAndLists/ArraysAndListsProject/ArraysAndLists/ArraysAndLists.csproj",
+        "packagesPath": "/Users/dustinkey/.nuget/packages/",
+        "outputPath": "/Users/dustinkey/repos/ArraysAndLists/ArraysAndListsProject/ArraysAndLists/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/dustinkey/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net35"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net35": {
+            "targetAlias": "net35",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net35": {
+          "targetAlias": "net35",
+          "runtimeIdentifierGraphPath": "/Users/dustinkey/Library/Caches/VisualStudio/8.0/MSBuild/32753_1/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

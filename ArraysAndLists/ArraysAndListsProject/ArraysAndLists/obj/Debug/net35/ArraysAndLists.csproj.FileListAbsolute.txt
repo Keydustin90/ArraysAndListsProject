@@ -1,0 +1,9 @@
+/Users/dustinkey/repos/ArraysAndLists/ArraysAndListsProject/ArraysAndLists/bin/Debug/net35/ArraysAndLists.exe.config
+/Users/dustinkey/repos/ArraysAndLists/ArraysAndListsProject/ArraysAndLists/bin/Debug/net35/ArraysAndLists.exe
+/Users/dustinkey/repos/ArraysAndLists/ArraysAndListsProject/ArraysAndLists/bin/Debug/net35/ArraysAndLists.pdb
+/Users/dustinkey/repos/ArraysAndLists/ArraysAndListsProject/ArraysAndLists/obj/Debug/net35/ArraysAndLists.csproj.AssemblyReference.cache
+/Users/dustinkey/repos/ArraysAndLists/ArraysAndListsProject/ArraysAndLists/obj/Debug/net35/ArraysAndLists.AssemblyInfoInputs.cache
+/Users/dustinkey/repos/ArraysAndLists/ArraysAndListsProject/ArraysAndLists/obj/Debug/net35/ArraysAndLists.AssemblyInfo.cs
+/Users/dustinkey/repos/ArraysAndLists/ArraysAndListsProject/ArraysAndLists/obj/Debug/net35/ArraysAndLists.csproj.CoreCompileInputs.cache
+/Users/dustinkey/repos/ArraysAndLists/ArraysAndListsProject/ArraysAndLists/obj/Debug/net35/ArraysAndLists.exe
+/Users/dustinkey/repos/ArraysAndLists/ArraysAndListsProject/ArraysAndLists/obj/Debug/net35/ArraysAndLists.pdb
